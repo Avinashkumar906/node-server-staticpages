@@ -1,0 +1,4 @@
+//Change default directory page
+DirectoryIndex index.html
+# Custom error pages.
+ErrorDocument 404 /index.html
